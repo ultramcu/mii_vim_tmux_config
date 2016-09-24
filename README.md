@@ -1,5 +1,25 @@
 # mii_vim_tmux_config
 
+##install application
+
+###CentOS
+
+sudo yum -y install tmux git vim tree zsh
+
+###Ubuntu
+
+sudo apt-get install tmux git vim tree zsh
+
+### macOS
+
+sudo port install tmux git vim tree zsh
+
+##install oh-my-zsh
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+##install my config
+
 cd ~
 
 git clone https://github.com/ultramcu/mii_vim_tmux_config.git
@@ -16,13 +36,14 @@ ln -s mii_vim_tmux_config/.vim ./
 
 
 --
+##change zsh theme to pygmalion
 
 vi ~/.zshrc
 
-change theme to pygmalion
-
 ZSH_THEME="pygmalion"
 
+--
 
+#Welcome to my colourful Terminal :)
 
 
