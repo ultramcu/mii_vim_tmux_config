@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard'
+let g:netrw_dirhist_2='/Users/maiii/Documents/PhoneGap/ionic/BT-Location/.git'
+let g:netrw_dirhist_3='/usr/bin'
+let g:netrw_dirhist_4='/Users/maiii/Documents/QHY/QHYCCD_Linux/CMakeFiles'
+let g:netrw_dirhist_5='/Users/maiii'
+let g:netrw_dirhist_6='/Users/maiii/Documents/Arduino/IoT Course/Lab_03-Basic_GPIO'
+let g:netrw_dirhist_7='/Users/maiii/Documents/Arduino/IoT Course/test'
+let g:netrw_dirhist_8='/Users/maiii/.oh-my-zsh/themes'
