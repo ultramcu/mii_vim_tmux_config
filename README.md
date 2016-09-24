@@ -18,7 +18,9 @@ ln -s mii_vim_tmux_config/.vim ./
 --
 
 vi ~/.zshrc
+
 change theme to pygmalion
+
 ZSH_THEME="pygmalion"
 
 
