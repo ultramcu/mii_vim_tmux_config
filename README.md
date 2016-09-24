@@ -36,14 +36,29 @@ ln -s mii_vim_tmux_config/.vim ./
 
 
 --
-##change zsh theme to pygmalion
+
+##config zsh
 
 vi ~/.zshrc
 
+###change zsh theme to pygmalion
+
 ZSH_THEME="pygmalion"
+
+###Export Path
+
+export PATH=/sbin:/bin:/usr/sbin:/usr/bin:$PATH
+
 
 --
 
-#Welcome to my colourful Terminal :)
+##Change Default Shell
+
+chsh -s /bin/zsh
+
+
+--
+
+#Enjoy it :)
 
 
