@@ -49,6 +49,18 @@ ZSH_THEME="pygmalion"
 
 export PATH=/sbin:/bin:/usr/sbin:/usr/bin:$PATH
 
+###if has perl: warngin: Setting locale failed.
+
+export LANGUAGE=en_US.UTF-8
+
+export LC_ALL=en_US.UTF-8
+
+export LANG=en_US.UTF-8
+
+export LC_TYPE=en_US.UTF-8
+
+
+
 
 --
 
